@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently a computer science student with a passion for web development, clean code, and well-organized projects. I enjoy learning by building, turning complex ideas into simple solutions, and collaborating on practical, real-world applications.
 I'm curious, self-motivated, and always eager to improve my technical skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IrinaStephane&style=flat-square" alt="irina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IrinaStephane&style=flat-square" alt="irina" /> </p>
 
 - 🔭 I’m currently working on [HEI](https://www.hei.school/)
 - 🌱 I’m currently learning on Integration of AI in app
@@ -53,6 +53,6 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaStephane&layout=compact&show_icons=true&locale=en&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrinaStephane&show_icons=true&locale=en)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=IrinaStephane&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinastephane&layout=compact&show_icons=true&locale=en&count_private=true&theme=tokyonight)
+![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinastephane&show_icons=true&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=irinastephane&count_private=true&theme=tokyonight)
