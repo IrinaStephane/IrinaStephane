@@ -50,6 +50,21 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinastephane&layout=compact&show_icons=true&locale=en&count_private=true&theme=tokyonight)
-![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinastephane&show_icons=true&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=irinastephane&count_private=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinastephane&layout=compact&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irinastephane&show_icons=true&theme=tokyonight" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irinastephane&count_private=true&theme=tokyonight" width="400"/>
+</p>
+
+
+---
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
+</p>
