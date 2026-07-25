@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irina</h1>
+<h1 align="center">Hi 👋, I'm IrinaStephane</h1>
 <h3 align="center">I'm currently a computer science student with a passion for web development, clean code, and well-organized projects. I enjoy learning by building, turning complex ideas into simple solutions, and collaborating on practical, real-world applications.
 I'm curious, self-motivated, and always eager to improve my technical skills.</h3>
 
@@ -29,8 +29,11 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,git" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring" />
+  <img src="https://skillicons.dev/icons?i=python,elixir,html,css,tailwind,js,java,git,docker" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring" />
+    <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" />
+  </span>
 </p>
 
 ---
