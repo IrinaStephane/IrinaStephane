@@ -29,9 +29,9 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,elixir,html,css,tailwind,js,java,git" />
+  <img src="https://skillicons.dev/icons?i=python,elixir,html,css,tailwind,js,java,git,docker" />
   <span>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring,docker" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring" />
     <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" />
   </span>
 </p>
