@@ -30,10 +30,10 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,elixir,html,css,tailwind,js,java,git" />
-  <div style="display: inline-flex; align-items: center;">
+  <span>
     <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring,docker" />
-    <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" style="margin: 0 5px;" />
-  </div>
+    <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" />
+  </span>
 </p>
 
 ---
