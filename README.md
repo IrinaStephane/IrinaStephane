@@ -55,21 +55,21 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 ## 📈 GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats.svg">
-  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats.svg" width="100%" alt="GitHub statistics: contributions, commits, pull requests, issues, repositories, stars, contributed to, current and longest streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/stats.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/stats.svg" width="100%" alt="GitHub statistics: contributions, commits, pull requests, issues, repositories, stars, contributed to, current and longest streak">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions.svg">
-  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions.svg" width="100%" alt="GitHub contribution activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/contributions.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/contributions.svg" width="100%" alt="GitHub contribution activity">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages.svg">
-  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages.svg" width="100%" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/languages.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/languages.svg" width="100%" alt="Most used languages">
 </picture>
 
 ---

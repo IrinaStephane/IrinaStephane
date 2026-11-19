@@ -1,15 +1,14 @@
 name: Generate contribution graph and stats
 
+# The SVGs are published to the "output" branch (not committed to master), so
+# the README can show them from any branch, right after the first run.
 on:
   schedule:
     # Every day at 03:17 UTC (06:17 in Madagascar). Avoid :00 — the hour mark is congested.
     - cron: "17 3 * * *"
   workflow_dispatch: # manual "Run workflow" button
   push:
-    branches: [master]
-    paths:
-      - "scripts/**"
-      - ".github/workflows/contributions.yml"
+    branches-ignore: [output] # never run on the branch this workflow writes to
 
 permissions:
   contents: write
@@ -21,6 +20,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     env:
       # Repository variable PROFILE_USERNAME if you set one, otherwise the repo owner.
       # (GitHub forbids secrets/variables whose name starts with GITHUB_, so the
@@ -62,25 +62,21 @@ jobs:
         run: node scripts/generate-contributions.mjs
 
       - name: Generate stats and languages SVGs
-        # A stats failure must not block the contribution graph from being committed.
+        # A stats failure must not block the contribution graph from being published.
         continue-on-error: true
         env:
           OUTPUT_DIR: output
           # ---- customisation (all optional) ----
           # TOP_LANGUAGES: "6"
-          EXCLUDE_LANGUAGES: "Jupyter Notebook,HTML, CSS"   # comma-separated
-          INCLUDE_PRIVATE: "true"                      # needs a PAT with `repo` scope
+          EXCLUDE_LANGUAGES: "Jupyter Notebook,HTML,CSS"   # comma-separated
+          INCLUDE_PRIVATE: "true"                          # needs a PAT with `repo` scope
         run: node scripts/generate-stats.mjs
 
-      - name: Commit if changed
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output
-          if git diff --staged --quiet; then
-            echo "No change in contribution graph, stats or languages."
-            exit 0
-          fi
-          git commit -m "chore: update contribution graph and stats [skip ci]"
-          git pull --rebase
-          git push
+      - name: Publish the SVGs to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: output
+          commit_message: "chore: update contribution graph and stats"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
