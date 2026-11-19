@@ -29,8 +29,12 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,git" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,nodejs,figma,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,elixir,postgres" alt="Backend: Node.js, Express, Java, Spring Boot, Python, Elixir, PostgreSQL" />
+  <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" alt="Phoenix" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux" alt="Tools: Git, GitHub, Docker, Postman, Figma, Linux" />
 </p>
 
 ---
@@ -48,20 +52,25 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinastephane&layout=compact&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="400"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/stats.svg" width="100%" alt="GitHub statistics: contributions, commits, pull requests, issues, repositories, stars, contributed to, current and longest streak">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irinastephane&show_icons=true&theme=tokyonight" width="400"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/contributions.svg" width="100%" alt="GitHub contribution activity">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irinastephane&count_private=true&theme=tokyonight" width="400"/>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages.svg">
+  <img src="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/master/output/languages.svg" width="100%" alt="Most used languages">
+</picture>
 
 ---
 
