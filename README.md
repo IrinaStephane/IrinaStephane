@@ -1,51 +1,31 @@
-<h1 align="center">Hi 👋, I'm Irina</h1>
-<h3 align="center">I'm currently a computer science student with a passion for web development, clean code, and well-organized projects. I enjoy learning by building, turning complex ideas into simple solutions, and collaborating on practical, real-world applications.
-I'm curious, self-motivated, and always eager to improve my technical skills.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IrinaStephane&style=flat-square" alt="irina" /> </p>
+# Hi, I'm Irina 👋
 
-- 🔭 I’m currently working on [HEI](https://www.hei.school/)
-- 🌱 I’m currently learning on Integration of AI in app
-- 💬 Ask me about Next.js, React, TypeScript, Javascript
+**Full Stack Developer** · Computer Science student at [HEI](https://www.hei.school/) · Madagascar 🇲🇬
 
-### 💻 What I enjoy  
-- ⚛️ Web development (React, Tailwind, Git)  
-- 📜 Writing simple and effective scripts  
-- 🤝 Teamwork and hands-on projects  
-- 🧹 Improving code clarity and structure
+<a href="https://irina.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/irina-st%C3%A9phane-rakotoarison-7291442a7"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:irinarakotoarison1@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### 🌐 Connect with me:
-<p align="left">
-<a style="margin-left: 50px;" href="https://fb.com/lrinaRakotoarison/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irina" height="30" width="40" /></a>
-<a href="https://instagram.com/irinarakotoarison" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## `01` · Stack
 
-<p align="center">
-  <img src="./assets/tech-marquee.svg" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, Elixir, Phoenix, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Spring Boot, PostgreSQL, Git, GitHub, Docker, Postman, Figma, Linux" width="100%" />
-</p>
+<img src="./assets/tech-marquee.svg" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, Elixir, Phoenix, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Spring Boot, PostgreSQL, Git, GitHub, Docker, Postman, Figma, Linux" width="100%" />
 
----
+## `02` · Projects
 
-## 🎯 Values & Goals
+| [**EventSync**](https://eventsync-proxima.vercel.app) | [**Finance Tracker**](https://expense-tracker-nine-roan.vercel.app) | [**JCRAM'V**](https://jcramv.vercel.app) |
+|:--|:--|:--|
+| Live, interactive event agendas | Expenses and budgets, with AI | Travel and hotel booking |
+| `Next.js` `PostgreSQL` | `React` `Express` | `HTML` `CSS` `JS` |
 
-- 🌍 Start small. Innovate Madagascar. Then the world.  
-- 🔒 Build privacy-friendly, open, accessible tools  
-- 🧠 Keep learning — from code, people, and purpose  
-- ✨ Make a real-world impact through clean, thoughtful design
-
----
-
-> _"Even small tools can inspire big change — starting from home."_
-
----
-
-## 📈 GitHub
+## `03` · GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrinaStephane/IrinaStephane/output/stats-dark.svg">
@@ -67,6 +47,8 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 ---
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
-</p>
+<div align="center">
+
+*Start small. Innovate Madagascar. Then the world.* 🌍
+
+</div>
