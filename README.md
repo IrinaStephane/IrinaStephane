@@ -26,15 +26,8 @@ I'm curious, self-motivated, and always eager to improve my technical skills.</h
 
 ## 🛠️ Languages and Tools
 
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,elixir,postgres" alt="Backend: Node.js, Express, Java, Spring Boot, Python, Elixir, PostgreSQL" />
-  <img src="https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg" width="48" height="48" alt="Phoenix" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux" alt="Tools: Git, GitHub, Docker, Postman, Figma, Linux" />
+  <img src="./assets/tech-marquee.svg" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, Elixir, Phoenix, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Spring Boot, PostgreSQL, Git, GitHub, Docker, Postman, Figma, Linux" width="100%" />
 </p>
 
 ---
