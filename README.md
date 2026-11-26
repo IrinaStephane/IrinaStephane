@@ -2,8 +2,7 @@
 
 # Hi, I'm Irina 👋
 
-**Full Stack Developer** · Computer Science student at [HEI](https://www.hei.school/) · Madagascar 🇲🇬<br>
-Open to internships · Learning AI integration and Elixir
+**Full Stack Developer** · Antananarivo, Madagascar 🇲🇬
 
 <a href="https://irina.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
@@ -15,16 +14,15 @@ Open to internships · Learning AI integration and Elixir
 
 ---
 
-## `01` · Stack
+## `01` · About
+
+Third-year Computer Science student at [HEI](https://www.hei.school/), focused on Full Stack development.
+I like turning complex ideas into simple, robust web apps, from the database to the interface.
+Currently learning AI integration and Elixir, and open to internships.
+
+## `02` · Stack
 
 <img src="./assets/tech-marquee.svg" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, Elixir, Phoenix, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Spring Boot, PostgreSQL, Git, GitHub, Docker, Postman, Figma, Linux" width="100%" />
-
-## `02` · Projects
-
-| [**EventSync**](https://eventsync-proxima.vercel.app) | [**Finance Tracker**](https://expense-tracker-nine-roan.vercel.app) | [**JCRAM'V**](https://jcramv.vercel.app) |
-|:--|:--|:--|
-| Live, interactive event agendas | Expenses and budgets, with AI | Travel and hotel booking |
-| `Next.js` `PostgreSQL` | `React` `Express` | `HTML` `CSS` `JS` |
 
 ## `03` · GitHub
 
