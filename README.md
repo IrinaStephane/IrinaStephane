@@ -2,7 +2,8 @@
 
 # Hi, I'm Irina 👋
 
-**Full Stack Developer** · Computer Science student at [HEI](https://www.hei.school/) · Madagascar 🇲🇬
+**Full Stack Developer** · Computer Science student at [HEI](https://www.hei.school/) · Madagascar 🇲🇬<br>
+Open to internships · Learning AI integration and Elixir
 
 <a href="https://irina.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
