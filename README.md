@@ -20,7 +20,7 @@
 
 Third-year Computer Science student at [HEI](https://www.hei.school/), focused on Full Stack development.
 I like turning complex ideas into simple, robust web apps, from the database to the interface.
-Currently learning AI integration and Elixir, and open to internships.
+Currently learning AI integration and open to internships.
 
 ## `02` · Stack
 
