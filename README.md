@@ -10,6 +10,8 @@
 &nbsp;
 <a href="mailto:irinarakotoarison1@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<img src="https://komarev.com/ghpvc/?username=IrinaStephane&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
